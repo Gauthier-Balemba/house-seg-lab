@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+pillow
+numpy
+matplotlib
+opencv-python
+pytest
+httpx
+torch
+torchvision
+segmentation-models-pytorch
+albumentations
+scikit-learn
+python-multipart
